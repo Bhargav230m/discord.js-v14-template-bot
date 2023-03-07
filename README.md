@@ -1,0 +1,3 @@
+## **discord.js-v14-template-bot** ##
+
+**THE BEST TEMPLATE BOT IN DISCORD.JS V14 WITH A ADVANCED COMMAND HANDLER**
