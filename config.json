@@ -1,15 +1,15 @@
 {
   "Handler": {
     "global": true,
-    "guild_id": "10285382004252467300"
+    "guild_id": ""
   },
   "Setup": {
-    "Token": "MTA1MTQwMDc1ODMxMjA0NjYxMw.GjQW0_.ONqsYbXeJKLi8I2IIPGJvTrPp-iu6XQqe4X_1o",
-    "DataBase_URL": "mongodb+srv://MONDISTECH:Bhargav@discordbot.inmfsod.mongodb.net/Test",
-    "Anti_Crash_System_Channel_ID": "1034828306362683412"
+    "Token": "",
+    "DataBase_URL": "",
+    "Anti_Crash_System_Channel_ID": ""
   },
   "Permissions": {
-    "Owner_ID": "890255508693454929",
-    "Dev_ID": ["890255508693454929"]
+    "Owner_ID": "",
+    "Dev_ID": [""]
   }
 }
